@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfoliopagereact/static/css/main.aac7b3bc.css",
+    "main.js": "/portfoliopagereact/static/js/main.42c66aa0.js",
+    "static/media/bike.jpg": "/portfoliopagereact/static/media/bike.652da223e5a2f5862526.jpg",
+    "static/media/Rbuzeta.jpg": "/portfoliopagereact/static/media/Rbuzeta.936827783504db907083.jpg",
+    "static/media/bikeadventure.png": "/portfoliopagereact/static/media/bikeadventure.07ac0c7628d7da5f1261.png",
+    "static/media/porfolipic.PNG": "/portfoliopagereact/static/media/porfolipic.7db3b322dd3fbea7a398.PNG",
+    "static/media/resumescreenshot.PNG": "/portfoliopagereact/static/media/resumescreenshot.a14da48a9b26d16b736d.PNG",
+    "static/media/cryptopicture.PNG": "/portfoliopagereact/static/media/cryptopicture.a374bcfb7428400c12c8.PNG",
+    "static/media/note-taker2pics.PNG": "/portfoliopagereact/static/media/note-taker2pics.1175a026ca1719a3f4e7.PNG",
+    "static/media/weatherdashpic.PNG": "/portfoliopagereact/static/media/weatherdashpic.3ca97c4a0d41b5b0da0e.PNG",
+    "static/media/redcalendar.PNG": "/portfoliopagereact/static/media/redcalendar.4ad415093bbd9b12c403.PNG",
+    "static/media/passgenpic.PNG": "/portfoliopagereact/static/media/passgenpic.476f1d2226f4e75db0ec.PNG",
+    "static/media/quizpic.PNG": "/portfoliopagereact/static/media/quizpic.6d86a59997b7cf637422.PNG",
+    "static/media/techblogpic.PNG": "/portfoliopagereact/static/media/techblogpic.b58e53ec5d52110146a7.PNG",
+    "index.html": "/portfoliopagereact/index.html",
+    "main.aac7b3bc.css.map": "/portfoliopagereact/static/css/main.aac7b3bc.css.map",
+    "main.42c66aa0.js.map": "/portfoliopagereact/static/js/main.42c66aa0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aac7b3bc.css",
+    "static/js/main.42c66aa0.js"
+  ]
+}
